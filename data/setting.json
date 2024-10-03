@@ -1,0 +1,14 @@
+{
+  "name": "Thomz",
+  "number": "",
+  "features": {
+    "broadcast": { "status": true, "blacklist": ["6289601109799"], "text": "" },
+    "pushContacts": {
+      "status": true,
+      "blacklist": ["6289601109799"],
+      "text": ""
+    },
+    "antiCall": { "status": true },
+    "safeMode": { "status": false }
+  }
+}
